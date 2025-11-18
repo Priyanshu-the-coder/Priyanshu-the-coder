@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm **Priyanshu Upadhyay**
 
 Welcome to my GitHub!  
 - 💻 Software Developer | Open Source Enthusiast  
@@ -15,8 +15,8 @@ Welcome to my GitHub!
 
 ## 📫 Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: priyanshupandit972@gmail.com(mailto:priyanshupandit972@gmail.com
+- LinkedIn: [priyanshu the coder](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ## 📊 GitHub Stats
