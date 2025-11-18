@@ -1,27 +1,4 @@
-# 👋 Hi, I'm **Priyanshu Upadhyay**
 
-Welcome to my GitHub!  
-- 💻 Software Developer | Open Source Enthusiast  
-- 🔥 Exploring AI, Web Development, and Data Science  
-- 🌱 Currently learning: Next.js, TypeScript, and Machine Learning  
-
-## 🚀 Projects
-
-| Project       | Description                               | Tech Stack         |
-|---------------|-------------------------------------------|--------------------|
-| Portfolio     | My personal portfolio website             | React, Next.js     |
-| ChatBot       | AI-powered chatbot                        | Python, TensorFlow |
-| Blog          | Markdown-based blog system                | Node.js, Express   |
-
-## 📫 Contact
-
-- Email: priyanshupandit972@gmail.com
-- LinkedIn: priyanshu-the-coder (https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
 
@@ -30,8 +7,8 @@ Welcome to my GitHub!
   <img src="https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="240" height="70" alt="Animated Hello">
 </div>
 
-# 👋 Hi, I'm [Your Name]
-**Passionate Developer | Open Source Enthusiast | Lifelong Learner**
+# 👋 Hi, I'm Priyanshu Upadhyay
+**Front End Developer | Open Source Enthusiast | Lifelong Learner**
 
 ---
 
@@ -47,13 +24,13 @@ Welcome to my GitHub!
 ## 📈 GitHub Stats
 
 <!-- GitHub dynamic stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-the-coder&show_icons=true)
 
 ---
 
 ## 🚀 Top Projects
 
-### [Portfolio Website](https://github.com/yourusername/portfolio)
+### [Portfolio Website](https://github.com/priyanshu-the-coder/portfolio)
 ![Website Screenshot](./assets/portfolio.png)
 > Personal site showcasing my work with React, animations, and responsive design.
 
