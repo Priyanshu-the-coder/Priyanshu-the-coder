@@ -15,8 +15,8 @@ Welcome to my GitHub!
 
 ## 📫 Contact
 
-- Email: priyanshupandit972@gmail.com(mailto:priyanshupandit972@gmail.com
-- LinkedIn: [priyanshu the coder](https://www.linkedin.com/in/yourprofile)
+- Email: priyanshupandit972@gmail.com
+- LinkedIn: priyanshu-the-coder (https://www.linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ## 📊 GitHub Stats
