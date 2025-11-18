@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
+Welcome to my GitHub!  
+- 💻 Software Developer | Open Source Enthusiast  
+- 🔥 Exploring AI, Web Development, and Data Science  
+- 🌱 Currently learning: Next.js, TypeScript, and Machine Learning  
 
-**Priyanshu-the-coder/Priyanshu-the-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+| Project       | Description                               | Tech Stack         |
+|---------------|-------------------------------------------|--------------------|
+| Portfolio     | My personal portfolio website             | React, Next.js     |
+| ChatBot       | AI-powered chatbot                        | Python, TensorFlow |
+| Blog          | Markdown-based blog system                | Node.js, Express   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Contact
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
