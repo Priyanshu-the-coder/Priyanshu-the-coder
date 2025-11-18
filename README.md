@@ -45,9 +45,9 @@
 
 ## 💬 Contact Me
 
-- Email: priyanshupandit972@gmail.com(mailto:your.email@example.com)
-- LinkedIn: priyanshu-the-coder(https://linkedin.com/in/yourprofile)
-- Twitter: @priyanshu-the-codet(https://twitter.com/yourhandle)
+- Email: priyanshupandit972@gmail.com(mailto:priyanshupandit972@gmaik.com) 
+- LinkedIn: priyanshu-the-coder(https://linkedin.com/in/priyanshu-the-coder)
+- Twitter: @priyanshu-the-coder(https://twitter.com/priyanshu-the-coder)
 
 ---
 
