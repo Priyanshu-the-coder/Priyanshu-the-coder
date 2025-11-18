@@ -45,9 +45,9 @@
 
 ## 💬 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: priyanshupandit972@gmail.com(mailto:your.email@example.com)
+- LinkedIn: priyanshu-the-coder(https://linkedin.com/in/yourprofile)
+- Twitter: @priyanshu-the-codet(https://twitter.com/yourhandle)
 
 ---
 
